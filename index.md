@@ -1,7 +1,7 @@
 ## About
 
 
-### I am an Enginnering student. Passionate about creating tech solutions through IoT and machine learning. 
+### I am an Engineering student. Passionate about creating tech solutions using IoT. 
 
 
 
